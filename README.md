@@ -28,7 +28,7 @@ pip install -r libraries.txt
 Two datasets were used for this project which i got from online open data sources are stored in our data folder and there location was given in a configuration file named config.yaml. In this file, its needed to set the path location of the files inside the data folder in the repository.
 
 ### Run the file 
-For running this dashboard, in your platform run all the cells in Final_Assignment.ipynb file.
+For running this dashboard, in your platform run all the cells in Final_Assignment_2022.ipynb file.
 Also for the data, i have put those inside Data folder in the repository. As the data's are bit coplicated so i had to upload it to Data folder. I have downloaded the
 data from cbs website and i downloaded with my favourable columns as the data set was too big.
 
