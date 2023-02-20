@@ -25,7 +25,7 @@ pip install -r libraries.txt
 
 
 ### File configuration
-Two datasets were used for this project which i got from online open data sources are stored in our data folder and there location was given in a configuration file named config.yaml. In this file, its needed to set the path location of the files inside the data folder in the repository.
+Two datasets were used for this project which i got from online open data sources and the links of these are stored at the end of the main file named final_assignment.ipnyb as a markdown text and there location was given in a configuration file named config.yaml. In this file, its needed to set the path location of the files inside the data folder in the repository.
 
 ### Run the file 
 For running this dashboard, in your platform run all the cells in Final_Assignment_2022.ipynb file.
